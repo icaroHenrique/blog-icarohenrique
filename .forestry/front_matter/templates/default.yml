@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Conteudo
+pages:
+- content/post/Post de teste.md
