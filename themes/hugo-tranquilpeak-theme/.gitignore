@@ -9,4 +9,5 @@ static/js/*
 !static/js/script-*.min.js
 static/css/*
 !static/css/style-*.min.css
+!static/css/custom.css
 
