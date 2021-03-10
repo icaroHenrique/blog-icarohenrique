@@ -8,8 +8,9 @@ tags:
   - highlight code
   - github theme
   - test
-thumbnailImagePosition: left
+thumbnailImagePosition: top
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/peak-140.jpg
+metaAlignment: center
 ---
 
 Tranquilpeak Hugo theme have its own theme to highlight source code. It's based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
