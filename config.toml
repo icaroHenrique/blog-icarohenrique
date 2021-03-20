@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Icaro Henrique"
-  bio = "Um entusiasta do DevOps e fanatico por infraestrutura de TI"
+  bio = "Cuidando para que os seus servidores não explodam!"
   job = "Analista de Suporte"
   location = "Brasil"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
